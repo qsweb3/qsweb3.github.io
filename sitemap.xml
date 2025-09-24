@@ -56,6 +56,15 @@
   </url>
   
   <url>
+    <loc>https://qsweb3.com/offsec-osda-experience/</loc>
+    
+    <lastmod>2025-09-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://qsweb3.com/supply-chain-attack-ai-nodejs-nx/</loc>
     
     <lastmod>2025-09-24</lastmod>
@@ -110,24 +119,6 @@
   </url>
   
   <url>
-    <loc>https://qsweb3.com/x64dbg-plugin-for-malware-analysis/</loc>
-    
-    <lastmod>2025-09-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qsweb3.com/offsec-osda-experience/</loc>
-    
-    <lastmod>2025-09-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://qsweb3.com/install-flare-vm/</loc>
     
     <lastmod>2025-09-24</lastmod>
@@ -137,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://qsweb3.com/What-I-Learned-from-Taking-the-OffSec-OSDA-Certification/</loc>
+    <loc>https://qsweb3.com/ida-pro-plugins/</loc>
     
     <lastmod>2025-09-24</lastmod>
     
@@ -146,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://qsweb3.com/ida-pro-plugins/</loc>
+    <loc>https://qsweb3.com/What-I-Learned-from-Taking-the-OffSec-OSDA-Certification/</loc>
     
     <lastmod>2025-09-24</lastmod>
     
