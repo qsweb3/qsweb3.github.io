@@ -4,7 +4,7 @@
   <url>
     <loc>https://qsweb3.com/link/index.html</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://qsweb3.com/tags/index.html</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://qsweb3.com/about/index.html</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://qsweb3.com/categories/index.html</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>https://qsweb3.com/categories/Cybersecurity/index.html</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>https://qsweb3.com/categories/web3/index.html</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
   <url>
     <loc>https://qsweb3.com/offsec-osda-experience/</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,16 +67,7 @@
   <url>
     <loc>https://qsweb3.com/supply-chain-attack-ai-nodejs-nx/</loc>
     
-    <lastmod>2025-10-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qsweb3.com/web3-remix-smart-contract/</loc>
-    
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +76,16 @@
   <url>
     <loc>https://qsweb3.com/web3-dapp-decentralized-application/</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qsweb3.com/web3-remix-smart-contract/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +94,7 @@
   <url>
     <loc>https://qsweb3.com/web3-solidity-fundraising-project/</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +103,7 @@
   <url>
     <loc>https://qsweb3.com/web3-solidity-intro-tutorial/</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +112,7 @@
   <url>
     <loc>https://qsweb3.com/web3-solidity-tutorial-3/</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +121,7 @@
   <url>
     <loc>https://qsweb3.com/what-is-defi/</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +130,7 @@
   <url>
     <loc>https://qsweb3.com/x64dbg-plugin-for-malware-analysis/</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,25 +139,7 @@
   <url>
     <loc>https://qsweb3.com/install-flare-vm/</loc>
     
-    <lastmod>2025-10-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qsweb3.com/What-I-Learned-from-Taking-the-OffSec-OSDA-Certification/</loc>
-    
-    <lastmod>2025-10-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qsweb3.com/blockchain-51-attack-analysis/</loc>
-    
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -166,7 +148,34 @@
   <url>
     <loc>https://qsweb3.com/ida-pro-plugins/</loc>
     
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qsweb3.com/What-I-Learned-from-Taking-the-OffSec-OSDA-Certification/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qsweb3.com/blockchain-51-attack-analysis/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qsweb3.com/etherhide-blockchain-cnc/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -175,7 +184,7 @@
 
   <url>
     <loc>https://qsweb3.com/</loc>
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
