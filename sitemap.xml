@@ -56,6 +56,24 @@
   </url>
   
   <url>
+    <loc>https://qsweb3.com/what-is-defi/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qsweb3.com/x64dbg-plugin-for-malware-analysis/</loc>
+    
+    <lastmod>2025-10-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://qsweb3.com/offsec-osda-experience/</loc>
     
     <lastmod>2025-10-16</lastmod>
@@ -111,24 +129,6 @@
   
   <url>
     <loc>https://qsweb3.com/web3-solidity-tutorial-3/</loc>
-    
-    <lastmod>2025-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qsweb3.com/what-is-defi/</loc>
-    
-    <lastmod>2025-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qsweb3.com/x64dbg-plugin-for-malware-analysis/</loc>
     
     <lastmod>2025-10-16</lastmod>
     
